@@ -1,0 +1,1 @@
+This folder holds information about when hives were openend, and some python functions to disregard data corresponding to the period during which hives were opened.
