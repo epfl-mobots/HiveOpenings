@@ -72,6 +72,7 @@ def get_invalid_times(start_ts:pd.Timestamp, end_ts:pd.Timestamp, hive_nb:int, r
     # Make sure the timestamps are tz-aware
     assert start_ts.tzinfo is not None, "start_ts must be timezone-aware"
     assert end_ts.tzinfo is not None, "end_ts must be timezone-aware"
+    assert hive_nb in [1,2,3], "hive_nb must be 1, 2, or 3"
 
     # Filter openings for the given hive number
     filtered_openings = openings_df[openings_df['hive_nb'] == hive_nb] # Filter on hive
