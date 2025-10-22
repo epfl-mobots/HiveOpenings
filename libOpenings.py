@@ -7,6 +7,7 @@ Initial date: 2025-07-23
 '''
 
 import pandas as pd
+import os
 
 def build_openings_df():
     """
@@ -14,7 +15,8 @@ def build_openings_df():
     
     :return: DataFrame with columns ['start_opening', 'end_opening', 'hive_nb', 'comment'].
     """
-    openings_file = "/Users/cyrilmonette/Library/CloudStorage/SynologyDrive-data/HiveOpenings/openings.txt"
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    openings_file = os.path.join(current_dir, "openings.txt")
     with open(openings_file, 'r') as file:
         openings = file.readlines()
 
