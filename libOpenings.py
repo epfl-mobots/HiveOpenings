@@ -38,8 +38,8 @@ def build_openings_df():
     openings_df['end_opening'] = pd.to_datetime(openings_df['date'] + ' ' + openings_df['time'].str.split('-').str[1], format='%d/%m/%y %H:%M')
 
     # Set tz to CET
-    openings_df['start_opening'] = openings_df['start_opening'].dt.tz_localize('CET')
-    openings_df['end_opening'] = openings_df['end_opening'].dt.tz_localize('CET')
+    openings_df['start_opening'] = openings_df['start_opening'].dt.tz_localize('Europe/Zurich')
+    openings_df['end_opening'] = openings_df['end_opening'].dt.tz_localize('Europe/Zurich')
 
     # Extract all digit characters individually from strings like 'h12' → ['1', '2']
     # Step 1: Extract the digits after 'h' (e.g., '12' from 'h12')
