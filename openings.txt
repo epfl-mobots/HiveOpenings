@@ -66,3 +66,6 @@
 07/05/26 17:30-18:00 h3 en vitesse, pas vu la reine. Fed with 50/50 syrup 500ml
 08/05/26 16:10-17:15 h3 queen seen on f2. Added abc27 in f6. Flashed latest fw on all robots. Removed wax on top cover, added brick to avoid future wax building
 12/05/26 10:55-11:10 h3 Did not open the hive, just fed with 500ml 50/50 syrup
+05/06/26 15:50-17:35 h3 added abc28 as frame7, shifted all frames to the left, partition now on the right. Queen seen on frame1. Removed and sealed feeder. Removed brick on top of the colony.
+08/06/26 15:35-16:10 h3 added abc31 as frame1, so shifted all other robots to the left. Partition is now on the left, shifted all frames back to the right. Abc28 started to be built, but not yet any brood or honey is being stored locally. Not a lot of new wax construction.
+10/06/26 17:00-17:35 h3 fixed cabling, did not really visit but I did open the hive.
