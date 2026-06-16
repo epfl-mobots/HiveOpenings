@@ -97,7 +97,7 @@ def get_invalid_times(start_ts:pd.Timestamp, end_ts:pd.Timestamp, hive_nb:int, r
     return invalid_times
 
 
-def filter_timestamps(timestamps: list[pd.Timestamp], hive_nb: int, recovery_time: int = 60, verbose: bool = False):
+def filter_timestamps(timestamps: list, hive_nb: int, recovery_time: int = 60, verbose: bool = False):
     """
     Filters a list of timestamps to exclude those that fall within the invalid times for a given hive number.
     
