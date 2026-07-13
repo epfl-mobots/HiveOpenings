@@ -70,4 +70,6 @@
 08/06/26 15:35-16:10 h3 added abc31 as frame1, so shifted all other robots to the left. Partition is now on the left, shifted all frames back to the right. Abc28 started to be built, but not yet any brood or honey is being stored locally. Not a lot of new wax construction.
 10/06/26 17:00-17:35 h3 fixed cabling, did not really visit but I did open the hive.
 15/06/26 15:20-16:00 h3 global frame inspection. Shifted all frames to the left, partition now on the right. Removed wax that was on top of the frames. No wax on seiling.
-23/06/26 09:50-10:50 h3 global frame inspection. Shifted all frames to the right, partition now on the left. Removed wax that was on top of the frames and on the ceiling. Added abc32 as frame9.
+23/06/26 9:50-10:50 h3 global frame inspection. Shifted all frames to the right, partition now on the left. Removed wax that was on top of the frames and on the ceiling. Added abc32 as frame9.
+01/07/26 9:30-10:05 h3 global frame inspection. Shifted all frames to the left, partition now on the right. Little to no wax on top of the frames. Less bees than at last visit.
+06/07/26 9:25-9:55 h3 global frame inspection. Shifted all frames to the right, partition now on the left. Little to no wax on top of the frames. Less bees than at last visit, queen might be dead ? But colony is extremely calm.
