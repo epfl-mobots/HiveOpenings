@@ -1,4 +1,4 @@
-# Times are in CET. Careful that time changes sometime in October.
+# Times are in CET
 09/09/24 20:30-20:35 h12
 12/09/24 17:20-17:50 h12
 13/09/24 17:30-18:30 h12
@@ -26,6 +26,7 @@
 16/12/24 11:50-12:00 h2
 17/12/24 11:20-12:40 h1
 03/01/25 17:55-18:10 h12 Fed h1 towards exit to outside. H2 had plenty of food still towards me, little towards exit.
+04/01/25 14:05-14:15 h2
 21/01/25 15:00-15:15 h12 Fed h1 towards me
 23/01/25 14:55-16:00 h12
 24/01/25 14:30-15:30 h12 Fed h2
@@ -47,32 +48,36 @@
 29/09/25 17:00-17:15 h1 little syrup left, less pollen
 02/10/25 18:00-18:20 h1 no syrup left, super little pollen, but uncapped larva. Fed h1 with 380ml 70-30 syrup 
 09/10/25 14:30-15:25 h1 no syrup left, little pollen, uncapped larva. Fed h1 with 380ml 70-30 syrup
-16/10/25 14:25-14:55 h1
+16/10/25 14:25-14:55 h1 
 22/10/25 11:30-11:55 h1 plugged both ABCs to h1r1
-30/10/25 9:15-9:25 h1
+30/10/25 9:15-9:25 h1 still uncapped syrup left in the cells
 06/11/25 13:50-14:00 h1 still uncapped syrup left in the cells
 19/11/25 11:35-11:45 h1 no uncapped syrup left in r4, very little uncapped syrup left in r2
-27/11/25 15:55-17:45 h1 h03: a bit of uncapped syrup, h07 pollen, h09 pollen. Removed all dead bees and all liquid. Need to heat strong to get rid of leftover liquid.
+27/11/25 15:55-17:45 h1 h03: a bit of uncapped syrup, h07 pollen, h09 pollen. Removed all dead bees and all liquid. Need to heat strong to get rid of leftover liquid. 
 
 09/04/26 17:00-17:30 h3 fed with 500ml 50/50 syrup
 17/04/26 13:30-14:00 h3 fed with 200ml 50/50 syrup
 20/04/26 16:10-17:20 h3 Colony built comb everywhere on top of the frames. Fed with 500ml 50/50 syrup
 21/04/26 14:20-14:35 h3 Colony built a little bit on top of the frames
 22/04/26 17:00-17:20 h3 Colony built a little bit on top of the frames
-24/04/26 14:20-14:40 h3 fed with 500ml 50/50 syrup. Capped brood + queen on f4!!
+24/04/26 14:20-14:40 h3 fed with 500ml 50/50 syrup. Capped brood + queen on frame4
 27/04/26 17:20-18:00 h3 fed with 500ml 50/50 syrup. Capped brood + queen seen
 29/04/26 16:10-16:40 h3 removed wax
 01/05/26 15:00-15:30 h3 queen on f2, f4 moved to f5, added abc30 in f4, fed with 500ml 50/50 syrup
-07/05/26 17:30-18:00 h3 en vitesse, pas vu la reine. Fed with 50/50 syrup 500ml
-08/05/26 16:10-17:15 h3 queen seen on f2. Added abc27 in f6. Flashed latest fw on all robots. Removed wax on top cover, added brick to avoid future wax building
+07/05/26 17:30-18:00 h3 Fast visit. Fed with 50/50 syrup 500ml
+08/05/26 16:10-17:15 h3 queen seen on f2. Added abc27 in f6. Flashed latest fw on all robots. Removed wax on top cover, added brick to avoid future wax building.
 12/05/26 10:55-11:10 h3 Did not open the hive, just fed with 500ml 50/50 syrup
 05/06/26 15:50-17:35 h3 added abc28 as frame7, shifted all frames to the left, partition now on the right. Queen seen on frame1. Removed and sealed feeder. Removed brick on top of the colony.
 08/06/26 15:35-16:10 h3 added abc31 as frame1, so shifted all other robots to the left. Partition is now on the left, shifted all frames back to the right. Abc28 started to be built, but not yet any brood or honey is being stored locally. Not a lot of new wax construction.
 10/06/26 17:00-17:35 h3 fixed cabling, did not really visit but I did open the hive.
-15/06/26 15:20-16:00 h3 global frame inspection. Shifted all frames to the left, partition now on the right. Removed wax that was on top of the frames. No wax on seiling.
-23/06/26 9:50-10:50 h3 global frame inspection. Shifted all frames to the right, partition now on the left. Removed wax that was on top of the frames and on the ceiling. Added abc32 as frame9.
+15/06/26 15:20-16:00 h3 global frame inspection. Shifted all frames to the left, partition now on the right. Removed wax that was on top of the frames. No wax on ceiling.
+23/06/26 09:50-10:50 h3 global frame inspection. Shifted all frames to the right, partition now on the left. Removed wax that was on top of the frames and on the ceiling. Added abc32 as frame9.
 01/07/26 9:30-10:05 h3 global frame inspection. Shifted all frames to the left, partition now on the right. Little to no wax on top of the frames. Less bees than at last visit.
 06/07/26 9:25-9:55 h3 global frame inspection. Shifted all frames to the right, partition now on the left. Little to no wax on top of the frames. Less bees than at last visit, queen might be dead ? But colony is extremely calm.
 14/07/26 9:50-10:25 h3 global frame inspection. Shifted all frames to the left, partition now on the right. No wax on top of the frames. Queen seen on frame1.
 15/07/26 10:30-10:50 h3 fed 500ml of 70-30 syrup
 21/07/26 9:45-10:30 h3 global frame inspection. Shifted all frames to the right, partition now on the left. No wax on top of the frames. Queen seen on frame3. Fed 500ml of 70-30 syrup.
+28/07/26 9:35-10:05 h3 global frame inspection. Shifted all frames to the left, partition now on the right. No wax on top of the frames. Queen seen on frame6. Fed 500ml of 70-30 syrup.
+03/08/26 17:15-18:00 h3 varroa treatment started for 5 weeks.
+05/08/26 9:30-10:05 h3 global frame inspection. Shifted all frames to the right, partition now on the left. No wax on top of the frames. Queen seen on frame6. Fed 500ml of 70-30 syrup.
+12/08/26 9:20-9:50 h3 global frame inspection. Shifted all frames to the left, partition now on the right. No wax on top of the frames. Queen seen on frame6. Fed 500ml of 70-30 syrup.
