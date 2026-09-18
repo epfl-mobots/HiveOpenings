@@ -84,3 +84,7 @@
 20/08/26 9:20-9:45 h3 global frame inspection. Shifted all frames to the right, partition now on the left. No wax on top of the frames. Queen seen on frame7. Fed 500ml of 70-30 syrup.
 27/08/26 9:50-10:20 h3 global frame inspection. Shifted all frames to the left, partition now on the right. No wax on top of the frames. Queen seen on frame4. Fed 1000ml of 70-30 syrup.
 03/09/26 9:00-9:35 h3 global frame inspection. Shifted all frames to the right, partition now on the left. No wax on top of the frames. Queen seen on frame2. Fed 1000ml of 70-30 syrup.
+10/09/26 16:25-17:20 h3 global frame inspection. Shifted all frames to the left, partition now on the right. No wax on top of the frames. Queen seen on frame7. Fed 1000ml of 70-30 syrup. Amusettes found on f5 and f4. Removed abc04 from f3, moved old f1 to f3 and added abc33 to f1, after the data was logged to Summer26visits.
+11/09/26 11:45-12:15 h3 Just opened the hive to flash new fw, eventually did not need to, so nothing was done. The bees had already almost emptied the feeder.
+11/09/26 16:00-16:10 h3 removed varroa treatment 
+18/09/26 15:40-16:00 h3 global frame inspection. Shifted all frames to the right, partition now on the left. Very little new wax on top of the frames. Queen seen on frame5. Fed 1000ml of 70-30 syrup.
